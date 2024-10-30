@@ -1,0 +1,12 @@
+.filter-brightness img{
+    filter:brightness(200%);
+}
+.filter-blur img{
+    filter:blur(5px);
+}
+.filter-contrast img{
+    filter:contrast(200%);
+}
+.filter-saturate img{
+    filter:saturate(8);
+}

@@ -1,0 +1,15 @@
+.master-searchbox {
+    position: relative;
+}
+
+.epres-relative {
+    position: relative;
+}
+
+.epres-absolute {
+    position: absolute;
+}
+
+.epres-fixed {
+    position: fixed;
+}

@@ -1,0 +1,14 @@
+.outer-email{
+    position: relative;
+}
+.me-relative {
+    position: relative;
+}
+
+.me-absolute {
+    position: absolute;
+}
+
+.me-fixed {
+    position: fixed;
+}

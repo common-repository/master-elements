@@ -1,0 +1,45 @@
+.notice{display:table;padding:20px;padding-right:38px;box-sizing:border-box;}
+
+
+.notice .logo,.notice .notice-content, .notice .btn{display:table-cell;vertical-align:middle;}
+
+
+.notice .notice-content h3{margin:0;}
+
+
+.notice p{margin:0}
+
+
+.notice .btn{text-align:center;}
+
+
+.notice .notice-content{padding:0 20px}
+
+
+.notice .button-primary{padding:1px 30px;vertical-align:middle;}
+
+
+.notice .dashicons-download{vertical-align:middle;}
+.e-notice__dismiss{width: auto !important;}
+
+
+
+
+@media screen and (max-width: 767px){
+
+
+    .notice{padding:5px 10px}
+
+
+    .notice .logo{display:none!important;}
+
+
+    .notice .btn{display:none!important;}
+
+
+
+
+
+}
+
+

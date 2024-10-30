@@ -1,0 +1,1 @@
+<?phpnamespace Elementor;defined( 'ABSPATH' ) || die();class Master_Custom_CSS extends Widget_Base{    public $base;    public function __construct($data = [], $args = null)    {        parent::__construct($data, $args);    }    public function get_name()    {        return 'custom-css';    }}

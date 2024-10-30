@@ -1,0 +1,17 @@
+/* .align-center{
+    margin: 0 auto;
+}
+.align-left{
+    float: left;
+}
+.align-right{
+    float: right;
+} */
+.elementor-widget-master-price .elementor-widget-container{
+    display: flex;
+}
+.price-content{
+    float:left;
+    overflow: hidden;
+    width: 100%;
+}

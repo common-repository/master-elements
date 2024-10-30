@@ -1,0 +1,15 @@
+.master-accordion{text-align:left}
+.master-accordion .tab-title a{display: block}
+.master-accordion .tab-title{margin:0;padding:15px 20px;font-weight:700;line-height:1;cursor:pointer;outline:none}
+.master-accordion .tab-title .master-accordion-icon{display:inline-block;width:1.5em}
+.master-accordion .tab-title .master-accordion-icon.master-accordion-icon-right{float:right;text-align:right}
+.master-accordion .tab-title .master-accordion-icon.master-accordion-icon-left{float:left;text-align:left}
+.master-accordion .tab-title .master-accordion-icon .master-accordion-icon-closed{display:block}
+.master-accordion .tab-title .master-accordion-icon .master-accordion-icon-opened,.master-accordion .tab-title.active .master-accordion-icon-closed{display:none}
+.master-accordion .tab-title.active .master-accordion-icon-opened{display:block}
+.master-accordion .tab-content{display:none;padding:15px 20px;border-top:1px solid #d4d4d4}
+@media (max-width:767px) {
+    .master-accordion .tab-title{padding:12px 15px}
+    .master-accordion .tab-title .master-accordion-icon{width:1.2em}
+    .master-accordion .tab-content{padding:7px 15px}
+}

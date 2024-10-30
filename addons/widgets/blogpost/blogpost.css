@@ -1,0 +1,54 @@
+.elementpress-grid-container .elementpress-post {
+    overflow: hidden
+}
+
+.elementpress-grid-container .elementpress-post a.elementpress-read-more-btn {
+    display: block;
+    text-decoration: none
+}
+
+.elementpress-grid-container .elementpress-post-grid-thumbnail {
+    margin-bottom: 20px
+}
+
+.elementpress-grid-container .elementpress-post-grid-meta {
+    margin-bottom: 10px
+}
+
+.elementpress-grid-container .elementpress-post .elementpress-post-grid-meta span+span:before {
+    margin-left: 2px;
+    margin-right: 4px
+}
+
+.elementpress-meta-bottom .elementpress-post-grid-text {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding-bottom: 20px
+}
+
+.elementpress-meta-bottom .elementpress-post {
+    padding: 20px 20px 20px 20px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .15)
+}
+
+.elementpress-grid .elementpress-grid-container .elementpress-post,
+.elementpress-grid .elementpress-grid-container .elementpress-post:hover {
+    background: 0 0;
+    margin-top: 0
+}
+
+.elementpress-grid .elementpress-grid-container .elementpress-post .title,
+.elementpress-grid .elementpress-grid-container .elementpress-post .title>a {
+    color: #333;
+    margin: 5px 0;
+    padding: 5px 0;
+    text-decoration: none
+}
+
+
+.elementpress-grid .elementpress-grid-container .elementpress-post .elementpress-post-grid-excerpt p,
+.elementpress-grid .elementpress-grid-container .elementpress-post .elementpress-post-grid-meta span,
+.elementpress-grid .elementpress-grid-container .elementpress-post a.elementpress-read-more-btn {
+    color: #707070;
+    font-weight: 400
+}

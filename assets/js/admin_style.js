@@ -1,0 +1,1 @@
+// for dashboard startjQuery(document).ready(function () {    jQuery('#Dashboard').addClass('active').show();});function openDashboardTab(id) {    jQuery('.tabcontent').removeClass('active').hide();    jQuery('#' + id).addClass('active').show();}

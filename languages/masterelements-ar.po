@@ -1,0 +1,1379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Master elements 1.0\n"
+"POT-Creation-Date: 2020-04-22 18:49+0500\n"
+"PO-Revision-Date: 2020-04-22 18:50+0500\n"
+"Last-Translator: \n"
+"Language-Team: teamdevbunch\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addons/widgets.php:9
+msgid "Master Elements ADDONS"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:41
+msgid "Mater Accordion"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:70
+msgid "Master Accordion"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:79
+#: addons/widgets/icon-box/icon-box.php:149
+msgid "Title & Description"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:81
+msgid "Accordion Title"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:92
+#: addons/widgets/call-of-action/call-of-action.php:127
+#: addons/widgets/call-of-action/call-of-action.php:131
+#: addons/widgets/icon-box/icon-box.php:529
+msgid "Content"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:94
+msgid "Accordion Content"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:102
+msgid "Accordion Items"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:107
+msgid "Accordion #1"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:108
+#: addons/widgets/accordion/accordion.php:112
+#: addons/widgets/icon-box/icon-box.php:187
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:111
+msgid "Accordion #2"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:122
+#: addons/widgets/icon-box/icon-box.php:116
+msgid "View"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:131
+#: addons/widgets/icon-box/icon-box.php:103
+#: addons/widgets/icon-box/icon-box.php:251
+#: addons/widgets/post-meta/post-meta.php:61
+msgid "Icon"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:159
+msgid "Active Icon"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:189
+#: addons/widgets/icon-box/icon-box.php:162
+msgid "Title HTML Tag"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:210
+msgid "Title Style"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:218
+#: addons/widgets/accordion/accordion.php:407
+#: addons/widgets/icon-box/icon-box.php:446
+#: addons/widgets/info-box/info-box.php:139
+#: addons/widgets/info-box/info-box.php:402
+msgid "Background"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:229
+#: addons/widgets/accordion/accordion.php:354
+#: addons/widgets/accordion/accordion.php:418
+#: addons/widgets/heading/heading.php:116
+#: addons/widgets/icon-box/icon-box.php:680
+#: addons/widgets/info-box/info-box.php:284
+msgid "Color"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:244
+#: addons/widgets/accordion/accordion.php:366
+msgid "Active Color"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:268
+#: addons/widgets/accordion/accordion.php:442
+#: addons/widgets/breadcrumbs/breadcrumbs.php:116
+#: addons/widgets/countdown/countdown.php:133
+#: addons/widgets/countdown/countdown.php:250
+#: addons/widgets/countdown/countdown.php:347
+#: addons/widgets/icon-box/icon-box.php:379
+msgid "Padding"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:280
+#: addons/widgets/accordion/accordion.php:453
+#: addons/widgets/countdown/countdown.php:122
+#: addons/widgets/countdown/countdown.php:239
+#: addons/widgets/countdown/countdown.php:336
+#: addons/widgets/icon-box/icon-box.php:580
+#: addons/widgets/plan-price/plan-price.php:578
+#: addons/widgets/plan-price/plan-price.php:601
+#: addons/widgets/plan-price/plan-price.php:623
+#: addons/widgets/post-author-image/post-author-image.php:78
+msgid "Margin"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:294
+#: addons/widgets/accordion/accordion.php:466
+#: addons/widgets/info-box/info-box.php:339
+#: addons/widgets/plan-price/plan-price.php:415
+#: addons/widgets/post-author-image/post-author-image.php:103
+#: addons/widgets/post-image/post-image.php:101
+#: addons/widgets/post-meta/post-meta.php:285
+#: addons/widgets/search/search.php:53
+#: addons/widgets/site-logo/site-logo.php:267
+msgid "Border"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:323
+msgid "Icon Style"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:334
+#: addons/widgets/breadcrumbs/breadcrumbs.php:40
+#: addons/widgets/call-of-action/call-of-action.php:143
+#: addons/widgets/icon-box/icon-box.php:537
+#: addons/widgets/post-author-image/post-author-image.php:39
+#: addons/widgets/post-content/post-content.php:38
+#: addons/widgets/post-image/post-image.php:51
+#: addons/widgets/post-meta/post-meta.php:214
+#: addons/widgets/post-title/post-title.php:52
+msgid "Alignment"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:338
+msgid "Start"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:342
+msgid "End"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:378
+#: addons/widgets/icon-box/icon-box.php:603
+msgid "Spacing"
+msgstr ""
+
+#: addons/widgets/accordion/accordion.php:399
+msgid "Content Style"
+msgstr ""
+
+#: addons/widgets/breadcrumbs/breadcrumbs.php:32
+msgid "Single Post BraedCrumbs"
+msgstr ""
+
+#: addons/widgets/breadcrumbs/breadcrumbs.php:44
+#: addons/widgets/call-of-action/call-of-action.php:151
+#: addons/widgets/heading/heading.php:81 addons/widgets/heading/heading.php:157
+#: addons/widgets/heading/heading.php:216
+#: addons/widgets/icon-box/icon-box.php:216
+#: addons/widgets/icon-box/icon-box.php:541
+#: addons/widgets/info-box/info-box.php:116
+#: addons/widgets/info-box/info-box.php:226
+#: addons/widgets/plan-price/plan-price.php:158
+#: addons/widgets/post-author-image/post-author-image.php:43
+#: addons/widgets/post-content/post-content.php:42
+#: addons/widgets/post-image/post-image.php:55
+#: addons/widgets/post-meta/post-meta.php:218
+#: addons/widgets/post-title/post-title.php:56
+#: addons/widgets/site-logo/site-logo.php:107
+#: addons/widgets/site-title/site-title.php:160
+msgid "Left"
+msgstr ""
+
+#: addons/widgets/breadcrumbs/breadcrumbs.php:48
+#: addons/widgets/call-of-action/call-of-action.php:159
+#: addons/widgets/heading/heading.php:85 addons/widgets/heading/heading.php:161
+#: addons/widgets/heading/heading.php:220
+#: addons/widgets/icon-box/icon-box.php:545
+#: addons/widgets/info-box/info-box.php:120
+#: addons/widgets/info-box/info-box.php:230
+#: addons/widgets/plan-price/plan-price.php:162
+#: addons/widgets/post-author-image/post-author-image.php:47
+#: addons/widgets/post-content/post-content.php:46
+#: addons/widgets/post-image/post-image.php:59
+#: addons/widgets/post-meta/post-meta.php:222
+#: addons/widgets/post-title/post-title.php:60
+#: addons/widgets/site-logo/site-logo.php:111
+#: addons/widgets/site-title/site-title.php:164
+msgid "Center"
+msgstr ""
+
+#: addons/widgets/breadcrumbs/breadcrumbs.php:52
+#: addons/widgets/call-of-action/call-of-action.php:167
+#: addons/widgets/heading/heading.php:89 addons/widgets/heading/heading.php:165
+#: addons/widgets/heading/heading.php:224
+#: addons/widgets/icon-box/icon-box.php:224
+#: addons/widgets/icon-box/icon-box.php:549
+#: addons/widgets/info-box/info-box.php:124
+#: addons/widgets/info-box/info-box.php:234
+#: addons/widgets/plan-price/plan-price.php:166
+#: addons/widgets/post-author-image/post-author-image.php:51
+#: addons/widgets/post-content/post-content.php:50
+#: addons/widgets/post-content/post-content.php:54
+#: addons/widgets/post-image/post-image.php:63
+#: addons/widgets/post-meta/post-meta.php:226
+#: addons/widgets/post-title/post-title.php:64
+#: addons/widgets/site-logo/site-logo.php:115
+#: addons/widgets/site-title/site-title.php:168
+msgid "Right"
+msgstr ""
+
+#: addons/widgets/breadcrumbs/breadcrumbs.php:68
+#: addons/widgets/call-of-action/call-of-action.php:197
+#: addons/widgets/plan-price/plan-price.php:394
+#: addons/widgets/post-content/post-content.php:70
+#: addons/widgets/post-image/post-image.php:79
+#: addons/widgets/post-meta/post-meta.php:242
+#: addons/widgets/post-title/post-title.php:80
+#: addons/widgets/site-logo/site-logo.php:191
+#: addons/widgets/site-title/site-title.php:187
+msgid "Style"
+msgstr ""
+
+#: addons/widgets/breadcrumbs/breadcrumbs.php:77
+#: addons/widgets/countdown/countdown.php:280
+#: addons/widgets/heading/heading.php:133
+#: addons/widgets/info-box/info-box.php:182
+#: addons/widgets/info-box/info-box.php:300
+#: addons/widgets/info-box/info-box.php:389
+#: addons/widgets/post-content/post-content.php:79
+#: addons/widgets/post-title/post-title.php:89
+msgid "Typography"
+msgstr ""
+
+#: addons/widgets/breadcrumbs/breadcrumbs.php:86
+msgid "BreadCrumbs Color Text"
+msgstr ""
+
+#: addons/widgets/breadcrumbs/breadcrumbs.php:101
+msgid "BreadCrumbs Color Active"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:45
+msgid "Single Post Call Of Action"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:59
+#: addons/widgets/icon-box/icon-box.php:592 masterelements.php:133
+msgid "Title"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:63 masterelements.php:135
+msgid "Default title"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:65 masterelements.php:136
+msgid "Type your title here"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:77
+msgid "Button Text"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:81
+msgid "Click Me!"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:83
+msgid "Type your Text here"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:95
+#: addons/widgets/post-title/post-title.php:35
+msgid "Html Tags"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:103
+#: addons/widgets/heading/heading.php:65
+#: addons/widgets/info-box/info-box.php:201
+#: addons/widgets/post-title/post-title.php:39
+#: addons/widgets/site-title/site-title.php:139
+msgid "H1"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:105
+#: addons/widgets/heading/heading.php:66
+#: addons/widgets/info-box/info-box.php:202
+#: addons/widgets/post-title/post-title.php:40
+#: addons/widgets/site-title/site-title.php:140
+msgid "H2"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:107
+#: addons/widgets/heading/heading.php:67
+#: addons/widgets/info-box/info-box.php:203
+#: addons/widgets/post-title/post-title.php:41
+#: addons/widgets/site-title/site-title.php:141
+msgid "H3"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:109
+#: addons/widgets/heading/heading.php:68
+#: addons/widgets/info-box/info-box.php:204
+#: addons/widgets/post-title/post-title.php:42
+#: addons/widgets/site-title/site-title.php:142
+msgid "H4"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:111
+#: addons/widgets/heading/heading.php:69
+#: addons/widgets/info-box/info-box.php:205
+#: addons/widgets/post-title/post-title.php:43
+#: addons/widgets/site-title/site-title.php:143
+msgid "H5"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:113
+#: addons/widgets/heading/heading.php:70
+#: addons/widgets/info-box/info-box.php:206
+#: addons/widgets/post-title/post-title.php:44
+#: addons/widgets/site-title/site-title.php:144
+msgid "H6"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:213
+#: addons/widgets/site-title/site-title.php:209
+msgid "Title Typography"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:231
+#: addons/widgets/post-content/post-content.php:88
+#: addons/widgets/post-title/post-title.php:98
+msgid "Title Color Text"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:263
+msgid "Content Typography"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:281
+msgid "Content Color Text"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:313
+msgid "Text Field Color Text"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:343
+msgid "Text Field PlaceHolder Color Text"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:373
+msgid "Text Box Background Color"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:403
+#: addons/widgets/info-box/info-box.php:370
+msgid "Button Color"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:433
+msgid "Button Hover Color"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:463
+msgid "Button Text Color"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:493
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:525
+msgid "Button Typography"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:543
+msgid "Button Border"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:557
+msgid "Button Paddiing"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:579
+msgid "Button Margin"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:601
+#: addons/widgets/search/search.php:147
+msgid "Button Border Radius"
+msgstr ""
+
+#: addons/widgets/call-of-action/call-of-action.php:623
+msgid "Text Box Border Radius"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:74
+msgid "Master CountDown"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:82
+msgid "Start Date & Time"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:89
+msgid "Background Color"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:104
+#: addons/widgets/countdown/countdown.php:317
+msgid "Outer Border"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:111
+#: addons/widgets/countdown/countdown.php:324
+#: addons/widgets/icon-box/icon-box.php:429
+#: addons/widgets/icon-box/icon-box.php:464
+#: addons/widgets/post-author-image/post-author-image.php:90
+#: addons/widgets/post-image/post-image.php:109
+#: addons/widgets/site-logo/site-logo.php:274
+msgid "Border Radius"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:144
+#: addons/widgets/countdown/countdown.php:359
+msgid "Show Height & Width"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:146
+#: addons/widgets/countdown/countdown.php:361
+#: addons/widgets/info-box/info-box.php:312
+#: addons/widgets/plan-price/plan-price.php:58
+#: addons/widgets/plan-price/plan-price.php:81
+#: addons/widgets/plan-price/plan-price.php:105
+#: addons/widgets/plan-price/plan-price.php:130
+#: addons/widgets/plan-price/plan-price.php:179
+#: addons/widgets/plan-price/plan-price.php:194
+#: addons/widgets/plan-price/plan-price.php:296
+#: addons/widgets/post-meta/post-meta.php:91
+#: addons/widgets/search/search.php:108
+#: addons/widgets/site-logo/site-logo.php:161
+#: addons/widgets/site-title/site-title.php:81
+#: addons/widgets/site-title/site-title.php:107 masterelements.php:145
+#: masterelements.php:157 masterelements.php:172
+msgid "Show"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:147
+#: addons/widgets/countdown/countdown.php:362
+#: addons/widgets/info-box/info-box.php:313
+#: addons/widgets/plan-price/plan-price.php:59
+#: addons/widgets/plan-price/plan-price.php:82
+#: addons/widgets/plan-price/plan-price.php:106
+#: addons/widgets/plan-price/plan-price.php:131
+#: addons/widgets/plan-price/plan-price.php:180
+#: addons/widgets/plan-price/plan-price.php:195
+#: addons/widgets/plan-price/plan-price.php:297
+#: addons/widgets/post-meta/post-meta.php:92
+#: addons/widgets/search/search.php:109
+#: addons/widgets/site-logo/site-logo.php:162
+#: addons/widgets/site-title/site-title.php:82
+#: addons/widgets/site-title/site-title.php:108 masterelements.php:146
+#: masterelements.php:158 masterelements.php:173
+msgid "Hide"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:155
+#: addons/widgets/countdown/countdown.php:370
+msgid "Background Width"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:179
+#: addons/widgets/countdown/countdown.php:394
+msgid "Background Height"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:208
+msgid "CountDown Text Style"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:216
+msgid "Text Typography"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:224
+msgid "Text Color"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:272
+msgid "CountDown Inner Style"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:288
+msgid "Counter Color"
+msgstr ""
+
+#: addons/widgets/countdown/countdown.php:302
+msgid "Counter Background Color"
+msgstr ""
+
+#: addons/widgets/heading/heading.php:52
+msgid "Master Heading"
+msgstr ""
+
+#: addons/widgets/heading/heading.php:61
+#: addons/widgets/info-box/info-box.php:197
+msgid "Custom Heading"
+msgstr ""
+
+#: addons/widgets/heading/heading.php:77
+#: addons/widgets/info-box/info-box.php:222
+msgid "Heading Alignment"
+msgstr ""
+
+#: addons/widgets/heading/heading.php:105
+#: addons/widgets/info-box/info-box.php:274
+msgid "Content "
+msgstr ""
+
+#: addons/widgets/heading/heading.php:108
+#: addons/widgets/info-box/info-box.php:276
+msgid "hello world!"
+msgstr ""
+
+#: addons/widgets/heading/heading.php:142
+#: addons/widgets/icon-box/icon-box.php:670
+#: addons/widgets/info-box/info-box.php:170
+msgid "Description"
+msgstr ""
+
+#: addons/widgets/heading/heading.php:145
+#: addons/widgets/info-box/info-box.php:172
+msgid "Default description"
+msgstr ""
+
+#: addons/widgets/heading/heading.php:146
+#: addons/widgets/info-box/info-box.php:173
+msgid "Type your description here"
+msgstr ""
+
+#: addons/widgets/heading/heading.php:153
+#: addons/widgets/heading/heading.php:212
+msgid "Description Alignment"
+msgstr ""
+
+#: addons/widgets/heading/heading.php:179
+msgid "Description Typography"
+msgstr ""
+
+#: addons/widgets/heading/heading.php:187
+#: addons/widgets/info-box/info-box.php:85
+#: addons/widgets/site-logo/site-logo.php:82
+msgid "Choose Image"
+msgstr ""
+
+#: addons/widgets/heading/heading.php:198
+#: addons/widgets/info-box/info-box.php:98
+#: addons/widgets/post-author-image/post-author-image.php:111
+#: addons/widgets/post-image/post-image.php:87
+msgid "Image Dimension"
+msgstr ""
+
+#: addons/widgets/heading/heading.php:200
+#: addons/widgets/info-box/info-box.php:100
+#: addons/widgets/post-author-image/post-author-image.php:113
+#: addons/widgets/post-image/post-image.php:89
+msgid ""
+"Crop the original image size to any custom size. Set custom width or height "
+"to keep the original size ratio."
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:48
+msgid "Master Icon Box"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:96
+msgid "Icon Box"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:119
+msgid "Default"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:120
+msgid "Stacked"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:121
+msgid "Framed"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:131
+msgid "Shape"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:134
+msgid "Circle"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:135
+msgid "Square"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:154
+msgid "This is the heading"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:155
+msgid "Enter your title"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:188
+msgid "Enter your description"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:198
+#: addons/widgets/site-logo/site-logo.php:171
+#: addons/widgets/site-title/site-title.php:117
+msgid "Link"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:203
+#: addons/widgets/site-logo/site-logo.php:173
+#: addons/widgets/site-title/site-title.php:119
+msgid "https://your-link.com"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:211
+msgid "Icon Position"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:220
+#: addons/widgets/icon-box/icon-box.php:569
+msgid "Top"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:271
+msgid "Normal"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:278
+#: addons/widgets/icon-box/icon-box.php:320
+msgid "Primary Color"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:295
+#: addons/widgets/icon-box/icon-box.php:333
+msgid "Secondary Color"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:313
+msgid "Hover"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:349
+#: addons/widgets/site-logo/site-logo.php:285
+msgid "Hover Animation"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:362
+msgid "Size"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:399
+msgid "Rotate"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:414
+msgid "Border Width"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:456
+msgid "Icon Border"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:475
+#: addons/widgets/plan-price/plan-price.php:443
+msgid "Icon Width"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:498
+#: addons/widgets/plan-price/plan-price.php:466
+msgid "Icon Height"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:553
+#: addons/widgets/site-title/site-title.php:172
+msgid "Justified"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:566
+msgid "Vertical Alignment"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:570
+msgid "Middle"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:571
+msgid "Bottom"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:620
+#: addons/widgets/site-title/site-title.php:194
+msgid "Title Color"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:635
+msgid "Title Hover Color"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:659
+msgid "Title Margin"
+msgstr ""
+
+#: addons/widgets/icon-box/icon-box.php:704
+msgid "Description Margin"
+msgstr ""
+
+#: addons/widgets/info-box/info-box.php:76
+msgid "Master Info Box"
+msgstr ""
+
+#: addons/widgets/info-box/info-box.php:112
+#: addons/widgets/site-logo/site-logo.php:103
+msgid "Image Alignment"
+msgstr ""
+
+#: addons/widgets/info-box/info-box.php:149
+#: addons/widgets/site-logo/site-logo.php:236
+msgid "Opacity"
+msgstr ""
+
+#: addons/widgets/info-box/info-box.php:214
+msgid "Heading Typography"
+msgstr ""
+
+#: addons/widgets/info-box/info-box.php:247
+msgid "Heading Padding"
+msgstr ""
+
+#: addons/widgets/info-box/info-box.php:258
+msgid "Heading Margin"
+msgstr ""
+
+#: addons/widgets/info-box/info-box.php:310
+msgid "Show button"
+msgstr ""
+
+#: addons/widgets/info-box/info-box.php:324
+msgid "Button Padding"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:49
+msgid "Master Price"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:56
+msgid "Show From"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:68
+msgid "From "
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:70
+msgid "From"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:71
+msgid "Type yourFrom here"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:79
+msgid "Show Price"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:91
+msgid "Price "
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:93
+msgid "$"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:94
+msgid "Type your Price here"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:103
+msgid "Show Duration"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:115
+msgid "Duration "
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:117
+msgid "month"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:118
+msgid "Type your Duration here"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:128
+msgid "Price Seperation Tag"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:140
+msgid "Content HTML Tag"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:154
+msgid "Content Alignment"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:177
+msgid "Show Inline"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:192
+msgid "&quot;From&quot; Position Absolute"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:205
+#: addons/widgets/plan-price/plan-price.php:308
+#: addons/widgets/search/search.php:219
+msgid "Button Position"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:209
+#: addons/widgets/plan-price/plan-price.php:312
+msgid "absolute"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:211
+#: addons/widgets/plan-price/plan-price.php:314
+#: addons/widgets/search/search.php:225
+msgid "Relative"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:212
+#: addons/widgets/plan-price/plan-price.php:315
+#: addons/widgets/search/search.php:226
+msgid "Absolute"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:213
+#: addons/widgets/plan-price/plan-price.php:316
+#: addons/widgets/search/search.php:227
+msgid "Fixed"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:225
+#: addons/widgets/plan-price/plan-price.php:328
+#: addons/widgets/search/search.php:238
+msgid "TOP"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:240
+#: addons/widgets/plan-price/plan-price.php:343
+#: addons/widgets/search/search.php:252
+msgid "RIGHT"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:255
+#: addons/widgets/plan-price/plan-price.php:358
+#: addons/widgets/search/search.php:266
+msgid "LEFT"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:270
+#: addons/widgets/plan-price/plan-price.php:373
+#: addons/widgets/search/search.php:280
+msgid "BOTTOM"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:294
+msgid "&quot;Duration&quot; Position Absolute"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:402
+msgid "Content Background Color"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:422
+msgid "Content Border Radius"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:435
+#: addons/widgets/search/search.php:98
+msgid "Box Shadow"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:490
+msgid "Content Padding"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:504
+msgid "From Color Text"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:516
+msgid "Price Color Text"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:528
+msgid "Duration Color Text"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:541
+msgid "From Typography"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:550
+msgid "Price Typography"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:559
+msgid "Duration Typography"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:570
+msgid "From Style"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:592
+msgid "Price Style"
+msgstr ""
+
+#: addons/widgets/plan-price/plan-price.php:614
+msgid "Month Style"
+msgstr ""
+
+#: addons/widgets/post-author-image/post-author-image.php:31
+msgid "Single Post Author"
+msgstr ""
+
+#: addons/widgets/post-author-image/post-author-image.php:66
+msgid "Paddiing"
+msgstr ""
+
+#: addons/widgets/post-content/post-content.php:30
+msgid "Master Single Post Content"
+msgstr ""
+
+#: addons/widgets/post-image/post-image.php:28
+msgid "Single Post Images"
+msgstr ""
+
+#: addons/widgets/post-image/post-image.php:36
+msgid "Image Size"
+msgstr ""
+
+#: addons/widgets/post-image/post-image.php:40
+msgid "Thumbnail (  150x150 )"
+msgstr ""
+
+#: addons/widgets/post-image/post-image.php:41
+msgid "Medium (  300x300 )"
+msgstr ""
+
+#: addons/widgets/post-image/post-image.php:42
+msgid "Large (  1024x1024 )"
+msgstr ""
+
+#: addons/widgets/post-image/post-image.php:43
+msgid "Full ( Original Image Size )"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:31
+msgid "Master Single Post Meta"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:42
+msgid "Meta Data"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:46
+msgid "Select Meta"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:48
+msgid "Author"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:49
+msgid "Date"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:50
+msgid "Categories"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:51
+msgid "Comments"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:52
+msgid "Tags"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:73
+msgid "Icon Margin"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:89
+#: addons/widgets/search/search.php:106
+msgid "Show Icon"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:101
+msgid "Mata Right Margin"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:117
+msgid "Mata Left Margin"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:193
+msgid "Repeater List"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:198
+msgid "Meta"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:200
+msgid "Icon Spacing"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:201
+msgid "Meta Spacing Right"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:202
+msgid "Meta Spacing Left"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:203
+msgid "Meta Icon Color"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:204
+msgid "Meta Text Color"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:251
+msgid "Meta Typography"
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:260
+msgid "Margin Meta "
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:272
+msgid "Padding Meta "
+msgstr ""
+
+#: addons/widgets/post-meta/post-meta.php:305
+msgid "Border Radius Meta "
+msgstr ""
+
+#: addons/widgets/post-title/post-title.php:26
+msgid "Single Post Title"
+msgstr ""
+
+#: addons/widgets/search/search.php:44
+msgid "Search"
+msgstr ""
+
+#: addons/widgets/search/search.php:61
+msgid "Input-Field-Padding"
+msgstr ""
+
+#: addons/widgets/search/search.php:73
+msgid "Input-Field-Margin"
+msgstr ""
+
+#: addons/widgets/search/search.php:85
+msgid "Input-Border-Radius"
+msgstr ""
+
+#: addons/widgets/search/search.php:119
+msgid "Button Icon"
+msgstr ""
+
+#: addons/widgets/search/search.php:135
+msgid "Button_Typography"
+msgstr ""
+
+#: addons/widgets/search/search.php:166
+msgid "Button-Padding"
+msgstr ""
+
+#: addons/widgets/search/search.php:177
+msgid "Button-Margin"
+msgstr ""
+
+#: addons/widgets/search/search.php:189
+msgid "Button Background Color"
+msgstr ""
+
+#: addons/widgets/search/search.php:204
+msgid "Icon Color"
+msgstr ""
+
+#: addons/widgets/search/search.php:223
+msgid "Select position"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:71
+msgid "Master Logo"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:129
+msgid "Caption"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:132
+msgid "None"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:133
+msgid "Attachment Caption"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:134
+#: addons/widgets/site-logo/site-logo.php:143
+msgid "Custom Caption"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:146
+msgid "Enter your image caption"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:159
+#: addons/widgets/site-title/site-title.php:105
+msgid "Custom Link"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:199
+msgid "Width"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:214
+msgid "Max Width(%)"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:248
+msgid "CSS Filters"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:252
+msgid "Select Filter"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:254
+msgid "Blur"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:255
+msgid "Brightness"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:256
+msgid "Contrast"
+msgstr ""
+
+#: addons/widgets/site-logo/site-logo.php:257
+msgid "Saturation"
+msgstr ""
+
+#: addons/widgets/site-title/site-title.php:67
+msgid "Master Site Title"
+msgstr ""
+
+#: addons/widgets/site-title/site-title.php:79
+msgid "Custom Title"
+msgstr ""
+
+#: addons/widgets/site-title/site-title.php:91
+msgid "Enter Title Here"
+msgstr ""
+
+#: addons/widgets/site-title/site-title.php:94
+msgid "Master Title"
+msgstr ""
+
+#: addons/widgets/site-title/site-title.php:95
+msgid "Type your Title here"
+msgstr ""
+
+#: addons/widgets/site-title/site-title.php:135
+msgid "Html Tag"
+msgstr ""
+
+#: addons/widgets/site-title/site-title.php:154
+msgid "Title Alignment"
+msgstr ""
+
+#: addons/widgets/site-title/site-title.php:218
+msgid "Text Shadow"
+msgstr ""
+
+#: admin/pages/dashboard.php:163
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: admin/pages/dashboard.php:315
+#, php-format
+msgid ""
+"%s - We recommend setting max execution time to at least 60. See: <a href="
+"\"%s\" target=\"_blank\">Increasing max execution to PHP</a>"
+msgstr ""
+
+#: admin/pages/dashboard.php:356
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: masterelements.php:113
+msgid "MasterElements CSS"
+msgstr ""
+
+#: masterelements.php:123
+msgid "This Feature Only Works on the frontend."
+msgstr ""
+
+#: masterelements.php:143
+msgid "Enable Media Query"
+msgstr ""
+
+#: masterelements.php:155
+msgid "Show Min"
+msgstr ""
+
+#: masterelements.php:170
+msgid "Show Max"
+msgstr ""
+
+#: masterelements.php:184
+msgid "Min Width (px)"
+msgstr ""
+
+#: masterelements.php:199
+msgid "Max Width (px)"
+msgstr ""
+
+#: masterelements.php:215 masterelements.php:233
+msgid "Add Your Own Custom Css Here"
+msgstr ""
+
+#: masterelements.php:225
+msgid ""
+"Use \"selector\" to target wrapper element. Examples:<br>selector {color: "
+"red;} // For main element<br>selector .child-element {margin: 10px;} // For "
+"child element<br>.my-class {text-align: center;} // Or use any custom "
+"selector"
+msgstr ""
+
+#: masterelements.php:238
+msgid "Title #1"
+msgstr ""
+
+#: masterelements.php:239 masterelements.php:240 masterelements.php:241
+msgid "yes"
+msgstr ""
+
+#: masterelements.php:242
+msgid "Min"
+msgstr ""
+
+#: masterelements.php:243
+msgid "Max"
+msgstr ""
+
+#: modules/theme-builder/me-cpt-hooks.php:35
+msgid "Conditions"
+msgstr ""
+
+#: modules/theme-builder/me-cpt-hooks.php:208
+msgid "Type"
+msgstr ""
+
+#: modules/theme-builder/me-cpt-hooks.php:209
+#: modules/theme-builder/me-cpt.php:568
+msgid "Condition"
+msgstr ""
+
+#: modules/theme-builder/me-cpt.php:34
+msgid "Add New"
+msgstr ""
+
+#: modules/theme-builder/me-cpt.php:35
+msgid "Add New "
+msgstr ""
+
+#: modules/theme-builder/me-cpt.php:36
+msgid "New "
+msgstr ""
+
+#: modules/theme-builder/me-cpt.php:37
+msgid "Edit "
+msgstr ""
+
+#: modules/theme-builder/me-cpt.php:38
+msgid "View "
+msgstr ""
+
+#: modules/theme-builder/me-cpt.php:39
+msgid "All "
+msgstr ""
+
+#: modules/theme-builder/me-cpt.php:40
+msgid "Search "
+msgstr ""
+
+#: modules/theme-builder/me-cpt.php:41
+msgid "Parent "
+msgstr ""
+
+#: modules/theme-builder/me-cpt.php:42 modules/theme-builder/me-cpt.php:43
+msgid "No "
+msgstr ""
+
+#: modules/theme-builder/me-cpt.php:73 modules/theme-builder/me-cpt.php:74
+msgid "Settings"
+msgstr ""
+
+#: modules/theme-builder/me-cpt.php:567
+msgid "Status"
+msgstr ""
+
+#~ msgid "text string one "
+#~ msgstr "arbanic translation one "
+
+#~ msgid "text string two "
+#~ msgstr "arbanic translation two "
+
+#~ msgid "text string three"
+#~ msgstr "arbanic translation threee"
